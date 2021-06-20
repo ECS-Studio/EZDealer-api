@@ -2,11 +2,11 @@
 > <details>
 >  <summary>Contents</summary>
 >
->> | [About]() | [Technologies Used]() |
+>> | [About](https://github.com/ECS-Studio/EZDealer-api#about-app) | [Technologies Used](https://github.com/ECS-Studio/EZDealer-api#technologies-employed) |
 >> |--|--|
->> | [Routes]() | [Future Iterations]() |
->> | [ERD]() | [Links]() |
->> | [Planning]() |  |
+>> | [Routes](https://github.com/ECS-Studio/EZDealer-api#catalogue-of-routes) | [Future Iterations](https://github.com/ECS-Studio/EZDealer-api#future-iterations) |
+>> | [ERD](https://github.com/ECS-Studio/EZDealer-api#entity-relationship-diagram) | [Links](https://github.com/ECS-Studio/EZDealer-api#links) |
+>> | [Planning](https://github.com/ECS-Studio/EZDealer-api#planning) |  |
 >>
 > </details>
 >
@@ -42,7 +42,7 @@
 >>>>
 >>> </details>
 >>>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
 >> <details>
@@ -73,15 +73,15 @@
 >>>>
 >>> </details>
 >>>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
-> ## Entity Relationship Diagram or Wireframe
+> ## Entity Relationship Diagram
 >> <details>
 >>   <summary>Show</summary>
 >>
 >>> ![ERD](linkToErd)
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
 > ## Planning
@@ -118,7 +118,7 @@
 >>>>
 >>> </details>
 >>>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
 >
@@ -130,7 +130,7 @@
 >>> |--|--|--|--|
 >>> | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) |
 >>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
 >
@@ -162,7 +162,7 @@
 >>>>
 >>> </details>
 >>>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
 >
@@ -175,6 +175,6 @@
 >>> | Front End App: | [appUrl](appUrl) | [EZDealer-client](https://github.com/ECS-Studio/EZDealer-client)|
 >>> | Database App | [dbUrl](dbUrl) | [EZDealer-api](https://github.com/ECS-Studio/EZDealer-api) |
 >>>
->> ###### [(Return to top)]()
+>> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
