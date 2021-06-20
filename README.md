@@ -94,7 +94,7 @@
 >>>> | Teammate | Actions |
 >>>> |--|--|
 >>>> | [EricHoward27](https://github.com/EricHoward27) | <!-- What they did --> |
->>>> | [Teamate](GitHubrepository) | <!-- What they did --> |
+>>>> | [mmmoore1313](https://github.com/mmmoore1313) | <!-- What they did --> |
 >>>>
 >>> </details>
 >>>
