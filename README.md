@@ -80,7 +80,7 @@
 >> <details>
 >>   <summary>Show</summary>
 >>
->>> ![ERD](linkToErd)
+>>> ![EZDealerERD](https://user-images.githubusercontent.com/4008762/123667251-f9aa7280-d807-11eb-9e76-20a6284372c9.jpg)
 >> ###### [(Return to top)](https://github.com/ECS-Studio/EZDealer-api#ezdealer-api)
 >> </details>
 >>
